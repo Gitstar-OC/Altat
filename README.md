@@ -1,4 +1,4 @@
-# [OC Coder](https://devpost.com/Gitstar-OC) hackathon project
+# Altat
 
 ## How to run the code 
 
